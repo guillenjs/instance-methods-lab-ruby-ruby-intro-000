@@ -1,6 +1,5 @@
 class Dog
+  def bark
+    puts "bark"
+  end
 end
-
-fido = Dog.new
-fide = Dog.new
-fide = Dog.new
